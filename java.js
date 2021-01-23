@@ -9,7 +9,6 @@ localStorage.setItem(todoId, userTodo);
 
 }
 
-
  function loadtodos() {
     var taskDate = new Date()
     var taskHour = taskDate.getHours()
@@ -33,8 +32,9 @@ localStorage.setItem(todoId, userTodo);
     return "present"
 
   }
-
+$("#currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
  $(document).ready(function(){
+   
      $(".saveBtn").on("click", storetodo);
      loadtodos()
 
