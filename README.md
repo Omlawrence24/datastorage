@@ -23,7 +23,7 @@
   have a constant reminder of things that need to be done through out the day. 
 
   ## License
-  MIT
+  MIT  
 
   ## Technology
   HTML, CSS, VS Code, CDN
