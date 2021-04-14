@@ -4,6 +4,10 @@ body {
   line-height: 1;
 }
 
+* {
+background-image:url(https://wallpapertag.com/wallpaper/full/b/2/7/111530-blue-and-white-background-1920x1080-ipad.jpg);
+}
+
 textarea{
   background: transparent;
   border: none;
