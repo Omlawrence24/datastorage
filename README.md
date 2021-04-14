@@ -45,7 +45,3 @@
    ![csh 2](https://user-images.githubusercontent.com/73300219/114717645-3be10f00-9d03-11eb-88e8-f85e246bbb9a.PNG)
 
 
-
-
-  ## I've attached a link to the Step by Step Functionality of this Project.
-  https://drive.google.com/file/d/1LF2F8HlBsD_LWZ_wZyMkmh_3RvaOx3Gt/view
