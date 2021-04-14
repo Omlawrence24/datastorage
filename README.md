@@ -19,7 +19,7 @@
   Install NPM, BootStrap, Moment.Js
 
   ## Usage
-  This Site a allows a user to input info that is time sensitive in hope that she will be able to come back and 
+  This Site allows a user to input info that is time sensitive in hope that she will be able to come back and 
   have a constant reminder of things that need to be done through out the day. 
 
   ## License
