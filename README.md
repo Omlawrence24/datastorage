@@ -26,7 +26,7 @@
   MIT  
 
   ## Technology
-  HTML, CSS, VS Code, CDN
+  HTML, CSS, VS Code, CDN, Moment.Js
 
   ## Developer
   Obedia Lawrence
