@@ -1,11 +1,11 @@
 
-# Obedia Lawrence Portfolio
+# Work Day Scheduler/ Data Storage
 
   ### MIT
   
   ## Description
-  This Site provides an in depth look into the qualification of Obedia Lawrence
-  Providing Links to Github, LinkedIn, and Resume.
+  This App will allow the User to create a database in a calender like setup. They will be 
+  able to update and alter tasks and duties. These entries will be stored in the local storage.
  
   ## Table of Contents
  * [Installation](#installation)
@@ -16,11 +16,11 @@
  * [Preview](#Preview)
  
   ## Installation
-  Install NPM, BootStrap
- 
+  Install NPM, BootStrap, Moment.Js
 
   ## Usage
-  Used as a Protfolio to give employers a more indepth look at Obedia Lawrence Past, Employment and Personality.
+  This Site a allows a user to input info that is time sensitive in hope that she will be able to come back and 
+  have a constant reminder of things that need to be done through out the day. 
 
   ## License
   MIT
