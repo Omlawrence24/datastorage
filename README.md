@@ -35,6 +35,8 @@
   Omlawrence24@gmail.com
   
   [Omlawrence24](https://github.com/Omlawrence24) 
+  
+  site (https://omlawrence24.github.io/datastorage/)
  
  ## Preview  
  
